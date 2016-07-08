@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmit": false,
+    "module": "es6",
+    "target": "es6",
+    "sourceMap": false,
+    "inlineSourceMap": true
+  },
+  "filesGlob": [
+    "*{.ts, .d.ts}"
+  ],
+  "compileOnSave": false
+}
