@@ -3,4 +3,4 @@ npm install
 
 jspm install
 
-node-inspector loader.js app.ts
+node-debug loader.js app.ts
