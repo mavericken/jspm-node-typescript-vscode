@@ -2,7 +2,7 @@
   "compilerOptions": {
     "noImplicitAny": false,
     "noEmit": false,
-    "module": "es6",
+    "module": "system",
     "target": "es6",
     "sourceMap": false,
     "inlineSourceMap": true
